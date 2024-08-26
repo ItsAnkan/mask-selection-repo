@@ -1,0 +1,542 @@
+[
+	{
+		"name": "Attack on Titan",
+		"year": 2013,
+		"episodes": 75,
+		"description": "In a world where humanity lives within three concentric walls to protect themselves from giant humanoid creatures called Titans, Eren Yeager vows to exterminate them after witnessing the destruction of his hometown and the death of his mother."
+	},
+	{
+		"name": "Demon Slayer: Kimetsu no Yaiba",
+		"year": 2019,
+		"episodes": 44,
+		"description": "Tanjiro Kamado, a kindhearted boy, becomes a demon slayer after his family is slaughtered and his younger sister Nezuko is turned into a demon. He sets out on a journey to find a cure for Nezuko and avenge his family."
+	},
+	{
+		"name": "My Hero Academia",
+		"year": 2016,
+		"episodes": 112,
+		"description": "In a world where most people have superpowers called Quirks, Izuku Midoriya dreams of becoming a hero despite being born Quirkless. He is chosen by the legendary hero All Might to inherit his Quirk, One for All, and attends the prestigious U.A. High School to train as a hero."
+	},
+	{
+		"name": "Naruto",
+		"year": 2002,
+		"episodes": 220,
+		"description": "Naruto Uzumaki, a young ninja ostracized for having the nine-tailed fox demon sealed inside him, dreams of becoming Hokage, the leader of his village. He embarks on a journey of self-discovery and friendship, facing challenges and enemies along the way."
+	},
+	{
+		"name": "One Piece",
+		"year": 1999,
+		"episodes": 1043,
+		"description": "Monkey D. Luffy, a young boy who ate the Gum-Gum Fruit and gained the ability to stretch his body like rubber, sets out on a journey to become the Pirate King, finding a crew of loyal companions along the way."
+	},
+	{
+		"name": "Death Note",
+		"year": 2006,
+		"episodes": 37,
+		"description": "Light Yagami, a brilliant high school student, finds a mysterious notebook called the Death Note that allows him to kill anyone by writing their name in it. He becomes obsessed with creating a new world free of crime, but his actions attract the attention of a detective known as L."
+	},
+	{
+		"name": "Fullmetal Alchemist: Brotherhood",
+		"year": 2009,
+		"episodes": 64,
+		"description": "Two brothers, Edward and Alphonse Elric, attempt to revive their deceased mother through alchemy, but the experiment goes wrong, leaving Edward without a leg and Alphonse without a body. They embark on a journey to find the Philosopher's Stone to restore their bodies and learn the truth behind the forbidden alchemy."
+	},
+	{
+		"name": "Bleach",
+		"year": 2004,
+		"episodes": 366,
+		"description": "Ichigo Kurosaki, a high school student, gains the powers of a Soul Reaper after his family is attacked by a Hollow, a malevolent spirit. He becomes responsible for protecting humans from Hollows and guiding souls to the afterlife."
+	},
+	{
+		"name": "Code Geass: Lelouch of the Rebellion",
+		"year": 2006,
+		"episodes": 50,
+		"description": "Lelouch Lamperouge, a young exiled prince, gains the power of Geass, which allows him to command anyone with a single gaze. He uses this power to fight against the oppressive Britannian Empire and create a world where his younger sister Nunnally can live in peace."
+	},
+	{
+		"name": "Cowboy Bebop",
+		"year": 1998,
+		"episodes": 26,
+		"description": "A group of bounty hunters, known as the Bebop crew, travel the galaxy in their spaceship, the Bebop, chasing criminals and seeking adventure. The crew consists of Spike Spiegel, a former hitman; Jet Black, a former cop; Faye Valentine, a con artist; Ed, a young hacker; and Ein, a genetically engineered corgi."
+	},
+	{
+		"name": "Sword Art Online",
+		"year": 2012,
+		"episodes": 100,
+		"description": "In the year 2022, a virtual reality massively multiplayer online role-playing game (VRMMORPG) called Sword Art Online is released. Players are trapped in the game when the creator disables the log-out function, and they must defeat the final boss to escape. Kirito, a skilled player, teams up with other players to survive and find a way out."
+	},
+	{
+		"name": "Steins;Gate",
+		"year": 2011,
+		"episodes": 24,
+		"description": "A group of eccentric college students in Akihabara, Tokyo, accidentally invent a time machine using a microwave oven. They experiment with sending messages to the past, but their actions have unintended consequences, leading to a chain of events that threaten to alter the future."
+	},
+	{
+		"name": "Hunter x Hunter",
+		"year": 1998,
+		"episodes": 148,
+		"description": "Gon Freecs, a young boy who dreams of becoming a Hunter, sets out on a journey to find his father, who abandoned him when he was a child. He meets other aspiring Hunters, Kurapika, Leorio, and Killua, and they form a team to face challenges and uncover secrets in the dangerous world of Hunters."
+	},
+	{
+		"name": "Neon Genesis Evangelion",
+		"year": 1995,
+		"episodes": 26,
+		"description": "In a post-apocalyptic world, giant humanoid creatures called Angels attack humanity. The organization NERV recruits teenagers with special abilities to pilot giant bio-machines called Evangelions to fight the Angels. The series explores themes of isolation, depression, and the human condition."
+	},
+	{
+		"name": "Yu Yu Hakusho",
+		"year": 1992,
+		"episodes": 112,
+		"description": "Yusuke Urameshi, a delinquent teenager, dies saving a child from a car accident. He is given a chance to return to the living world as a Spirit Detective, tasked with protecting the human world from demons and other supernatural threats."
+	},
+	{
+		"name": "Fullmetal Alchemist",
+		"year": 2003,
+		"episodes": 51,
+		"description": "An earlier adaptation of the Fullmetal Alchemist manga, this series follows the same premise as Fullmetal Alchemist: Brotherhood but diverges in its storyline and ending."
+	},
+	{
+		"name": "Inuyasha",
+		"year": 2000,
+		"episodes": 167,
+		"description": "Kagome Higurashi, a modern-day schoolgirl, is transported to feudal Japan after falling into a well. She meets Inuyasha, a half-demon who is sealed to a tree. Together, they search for the shards of the Shikon Jewel, a powerful artifact that can grant wishes."
+	},
+	{
+		"name": "Fruits Basket",
+		"year": 2001,
+		"episodes": 26,
+		"description": "Tohru Honda, an orphaned high school student, moves in with the Sohma family, who are cursed to transform into animals of the Chinese zodiac when they are hugged by someone of the opposite gender."
+	},
+	{
+		"name": "Trigun",
+		"year": 1998,
+		"episodes": 26,
+		"description": "Vash the Stampede, a pacifist gunslinger with a reputation for causing massive destruction, travels the desert planet of Gunsmoke, seeking to spread peace and love."
+	},
+	{
+		"name": "Ghost in the Shell: Stand Alone Complex",
+		"year": 2002,
+		"episodes": 26,
+		"description": "In a future where technology has blurred the lines between humans and machines, Major Motoko Kusanagi, a cyborg police officer, investigates cybercrime and terrorism in the technologically advanced city of Niihama."
+	},
+	{
+		"name": "Ergo Proxy",
+		"year": 2006,
+		"episodes": 23,
+		"description": "In a futuristic city where humans and androids coexist, a detective named Re-L Mayer investigates a series of murders committed by androids who have gained consciousness and are rebelling against their human creators."
+	},
+	{
+		"name": "Samurai Champloo",
+		"year": 2004,
+		"episodes": 26,
+		"description": "In Edo-era Japan, a young woman named Fuu hires two samurai, Mugen and Jin, to help her find a samurai who smells of sunflowers."
+	},
+	{
+		"name": "Baccano!",
+		"year": 2007,
+		"episodes": 13,
+		"description": "A historical fantasy anime set in the Prohibition era in the United States, Baccano! follows the intertwined stories of a group of immortal beings, gangsters, and alchemists."
+	},
+	{
+		"name": "Soul Eater",
+		"year": 2008,
+		"episodes": 51,
+		"description": "At the Death Weapon Meister Academy, students train to become Death Scythes, weapons that can transform into human form and partner with human Meisters. The series follows Maka Albarn, a Meister, and Soul Eater, a scythe, as they collect the souls of 99 evil humans and one witch to become a Death Scythe."
+	},
+	{
+		"name": "Gurren Lagann",
+		"year": 2007,
+		"episodes": 27,
+		"description": "In a world where humanity lives underground, Simon, a timid boy, discovers a giant robot called Lagann and teams up with Kamina, a charismatic leader, to fight against the oppressive Spiral King and his army of robots."
+	},
+	{
+		"name": "Tengen Toppa Gurren Lagann",
+		"year": 2007,
+		"episodes": 27,
+		"description": "The second half of the Gurren Lagann series, Tengen Toppa Gurren Lagann continues the story of Simon and Kamina as they fight against the Spiral King and his army of robots, eventually reaching the stars and facing cosmic threats."
+	},
+	{
+		"name": "Puella Magi Madoka Magica",
+		"year": 2011,
+		"episodes": 12,
+		"description": "A group of middle school girls, Madoka Kaname, Homura Akemi, Sayaka Miki, Mami Tomoe, and Kyoko Sakura, are approached by a magical creature called Kyubey, who offers them the chance to become magical girls in exchange for their wishes. However, the girls soon discover that the price of becoming a magical girl is much higher than they expected."
+	},
+	{
+		"name": "Fate/Zero",
+		"year": 2011,
+		"episodes": 13,
+		"description": "A prequel to the Fate/stay night series, Fate/Zero tells the story of the Fourth Holy Grail War, a deadly tournament where seven mages summon legendary heroes to fight for the Holy Grail, a powerful artifact that can grant any wish."
+	},
+	{
+		"name": "Fate/stay night: Unlimited Blade Works",
+		"year": 2014,
+		"episodes": 13,
+		"description": "An adaptation of the Unlimited Blade Works route from the Fate/stay night visual novel, this series follows Shirou Emiya, a young mage, as he participates in the Fifth Holy Grail War and fights alongside the heroic spirit Saber."
+	},
+	{
+		"name": "Fate/stay night: Heaven's Feel",
+		"year": 2017,
+		"episodes": 3,
+		"description": "An adaptation of the Heaven's Feel route from the Fate/stay night visual novel, this series follows Shirou Emiya as he faces a different outcome in the Fifth Holy Grail War, with a focus on the character of Sakura Matou."
+	},
+	{
+		"name": "Psycho-Pass",
+		"year": 2012,
+		"episodes": 22,
+		"description": "In a futuristic society where technology can measure a person's mental state and predict their likelihood of committing crimes, a group of detectives known as the Inspectors use a device called the Dominator to apprehend criminals before they act."
+	},
+	{
+		"name": "The Melancholy of Haruhi Suzumiya",
+		"year": 2006,
+		"episodes": 14,
+		"description": "A high school student named Kyon encounters Haruhi Suzumiya, a girl who believes she is the only one who can make the world interesting. Haruhi creates a club called the SOS Brigade, which attracts a group of eccentric individuals, including a time traveler, an alien, and a psychic."
+	},
+	{
+		"name": "The Tatami Galaxy",
+		"year": 2010,
+		"episodes": 11,
+		"description": "A college student, known only as the protagonist, relives the same year of his life over and over again, trying different clubs and activities in search of a fulfilling life."
+	},
+	{
+		"name": "Monster",
+		"year": 2004,
+		"episodes": 74,
+		"description": "Dr. Kenzo Tenma, a brilliant neurosurgeon, chooses to save the life of a young boy instead of a prominent politician. The boy, Johan Liebert, grows up to become a serial killer, and Tenma must confront his past and stop Johan's reign of terror."
+	},
+	{
+		"name": "Parasyte -the maxim-",
+		"year": 2014,
+		"episodes": 24,
+		"description": "Parasitic aliens called Parasites invade Earth, taking over the bodies of humans. Shinichi Izumi, a high school student, is partially taken over by a Parasite named Migi, who forms a symbiotic relationship with him."
+	},
+	{
+		"name": "Steins;Gate 0",
+		"year": 2018,
+		"episodes": 23,
+		"description": "A sequel to Steins;Gate, this series follows Okabe Rintarou as he deals with the aftermath of the events of the original series and tries to prevent a tragedy from happening."
+	},
+	{
+		"name": "Re:ZERO - Starting Life in Another World",
+		"year": 2016,
+		"episodes": 46,
+		"description": "Subaru Natsuki, an ordinary teenager, is transported to another world where he is killed and forced to relive the same day over and over again, each time starting from the moment he arrives."
+	},
+	{
+		"name": "Overlord",
+		"year": 2015,
+		"episodes": 40,
+		"description": "Momonga, a powerful guild master in the online game Yggdrasil, finds himself trapped in the game's world after the servers are shut down. He becomes the supreme ruler of the undead and sets out to conquer the world."
+	},
+	{
+		"name": "Log Horizon",
+		"year": 2013,
+		"episodes": 52,
+		"description": "In a virtual reality massively multiplayer online role-playing game (VRMMORPG) called Elder Tale, players are trapped in the game when the game's world is updated. Shiroe, a skilled player, teams up with other players to adapt to the new reality and create a new society within the game."
+	},
+	{
+		"name": "No Game No Life",
+		"year": 2014,
+		"episodes": 12,
+		"description": "Sora and Shiro, two NEET siblings who are known as the Blank in the online gaming world, are summoned to a world where everything is decided by games. They must use their gaming skills to survive and conquer the world."
+	},
+	{
+		"name": "The Rising of the Shield Hero",
+		"year": 2019,
+		"episodes": 25,
+		"description": "Naofumi Iwatani, an ordinary college student, is summoned to another world as one of the four Legendary Heroes, wielding the Shield. However, he is betrayed by his companions and falsely accused of a crime, leaving him ostracized and alone."
+	},
+	{
+		"name": "Made in Abyss",
+		"year": 2017,
+		"episodes": 13,
+		"description": "In a world where a giant chasm known as the Abyss holds countless mysteries and treasures, a group of young explorers called the Cave Raiders venture into the depths, facing dangerous creatures and uncovering the secrets of the Abyss."
+	},
+	{
+		"name": "Violet Evergarden",
+		"year": 2018,
+		"episodes": 13,
+		"description": "Violet Evergarden, a former soldier who lost her arms in the war, works as an Auto Memory Doll, writing letters for people who cannot express their feelings."
+	},
+	{
+		"name": "Your Lie in April",
+		"year": 2014,
+		"episodes": 22,
+		"description": "Kousei Arima, a talented pianist who lost his ability to play after his mother's death, meets Kaori Miyazono, a free-spirited violinist who inspires him to rediscover his passion for music."
+	},
+	{
+		"name": "A Silent Voice",
+		"year": 2016,
+		"episodes": 1,
+		"description": "Shoya Ishida, a former bully who tormented a deaf girl named Shoko Nishimiya, is haunted by his past and seeks redemption by reconnecting with Shoko."
+	},
+	{
+		"name": "Erased",
+		"year": 2016,
+		"episodes": 12,
+		"description": "Satoru Fujinuma, a young manga artist, has the ability to travel back in time to prevent tragedies. He is sent back to his childhood to stop the murder of his classmate, Kayo Hinazuki."
+	},
+	{
+		"name": "Haikyuu!!",
+		"year": 2014,
+		"episodes": 85,
+		"description": "Shoyo Hinata, a short but passionate volleyball player, joins the Karasuno High School volleyball club, where he meets Tobio Kageyama, a talented setter with a bad temper. Together, they strive to become the best volleyball team in Japan."
+	},
+	{
+		"name": "Mob Psycho 100",
+		"year": 2016,
+		"episodes": 25,
+		"description": "Shigeo Kageyama, a powerful esper with psychic abilities, struggles to control his powers and find his place in the world. He works as an assistant to Reigen Arataka, a con artist who claims to be a powerful esper."
+	},
+	{
+		"name": "JoJo's Bizarre Adventure",
+		"year": 2012,
+		"episodes": 168,
+		"description": "A long-running anime series that follows the adventures of the Joestar family, who are destined to fight against supernatural threats. Each part of the series features a new generation of Joestars with unique abilities and powers."
+	},
+	{
+		"name": "Black Butler",
+		"year": 2008,
+		"episodes": 24,
+		"description": "Ciel Phantomhive, a young nobleman, makes a pact with a demon named Sebastian Michaelis to avenge his parents' deaths. Sebastian becomes Ciel's butler and serves him faithfully, while also fulfilling his own demonic desires."
+	},
+	{
+		"name": "Pandora Hearts",
+		"year": 2009,
+		"episodes": 25,
+		"description": "Oz Vessalius, a young nobleman, is framed for a crime he did not commit and sent to the Abyss, a prison for souls. He meets Alice, a Chain, a powerful being that can manifest as a weapon, and they embark on a journey to uncover the truth behind Oz's past and the secrets of the Abyss."
+	},
+	{
+		"name": "D.Gray-man",
+		"year": 2006,
+		"episodes": 103,
+		"description": "Allen Walker, a young exorcist, fights against the Millennium Earl, a powerful demon who seeks to destroy the world. Allen wields a cursed Innocence, a weapon that can fight against demons, and he joins the Black Order, an organization dedicated to protecting humanity from the Earl's forces."
+	},
+	{
+		"name": "Blue Exorcist",
+		"year": 2011,
+		"episodes": 47,
+		"description": "Rin Okumura, a teenage boy who discovers he is the son of Satan, decides to become an Exorcist to fight against demons and protect the human world."
+	},
+	{
+		"name": "Noragami",
+		"year": 2014,
+		"episodes": 25,
+		"description": "Yato, a minor god who is struggling to gain followers, meets Hiyori Iki, a high school student who becomes a half-phantom after saving Yato from a bus accident. They team up with Yukine, Yato's Regalia, to help people and solve supernatural problems."
+	},
+	{
+		"name": "Tokyo Ghoul",
+		"year": 2014,
+		"episodes": 24,
+		"description": "Ken Kaneki, a college student, is attacked by a ghoul, a creature that feeds on human flesh. He receives a ghoul's organ transplant and becomes a half-ghoul, struggling to adapt to his new life and survive in a world where humans and ghouls are at war."
+	},
+	{
+		"name": "Tokyo Ghoul √A",
+		"year": 2015,
+		"episodes": 12,
+		"description": "A sequel to Tokyo Ghoul, this series follows Ken Kaneki as he navigates the complexities of his dual identity and faces new threats from both humans and ghouls."
+	},
+	{
+		"name": "The Ancient Magus' Bride",
+		"year": 2017,
+		"episodes": 24,
+		"description": "Chise Hatori, a young girl who has been abandoned and abused, is sold at an auction to Elias Ainsworth, a powerful mage who is also a magus, a being that can take on different forms. Chise becomes Elias' apprentice and learns about magic and the world of mages."
+	},
+	{
+		"name": "Little Witch Academia",
+		"year": 2017,
+		"episodes": 25,
+		"description": "Akko Kagari, a young girl who dreams of becoming a witch, enrolls at Luna Nova Magical Academy, a prestigious school for witches. She faces challenges and learns about magic, friendship, and the importance of believing in oneself."
+	},
+	{
+		"name": "K-On!",
+		"year": 2009,
+		"episodes": 39,
+		"description": "A group of high school girls form a light music club, the Houkago Tea Time, and they play music, eat cake, and enjoy their time together."
+	},
+	{
+		"name": "Angel Beats!",
+		"year": 2010,
+		"episodes": 13,
+		"description": "A group of students who have died and are now in the afterlife form a club called the Afterlife Battlefront to fight against God, who they believe is responsible for their deaths."
+	},
+	{
+		"name": "Toradora!",
+		"year": 2008,
+		"episodes": 25,
+		"description": "Ryuuji Takasu, a kind-hearted but intimidating high school student, and Taiga Aisaka, a small but fierce girl, form an unlikely friendship and help each other with their romantic problems."
+	},
+	{
+		"name": "Clannad",
+		"year": 2007,
+		"episodes": 23,
+		"description": "Tomoya Okazaki, a delinquent high school student, meets Nagisa Furukawa, a kind and cheerful girl who is struggling to overcome her illness. They form a bond and help each other find meaning in their lives."
+	},
+	{
+		"name": "Clannad: After Story",
+		"year": 2008,
+		"episodes": 24,
+		"description": "A sequel to Clannad, this series follows Tomoya and Nagisa as they face the challenges of adulthood, marriage, and parenthood."
+	},
+	{
+		"name": "Spice and Wolf",
+		"year": 2008,
+		"episodes": 13,
+		"description": "Kraft Lawrence, a traveling merchant, meets Holo, a wolf deity who has taken the form of a beautiful woman. They embark on a journey together, trading goods and sharing stories."
+	},
+	{
+		"name": "Baccano!",
+		"year": 2007,
+		"episodes": 13,
+		"description": "A historical fantasy anime set in the Prohibition era in the United States, Baccano! follows the intertwined stories of a group of immortal beings, gangsters, and alchemists."
+	},
+	{
+		"name": "The World God Only Knows",
+		"year": 2010,
+		"episodes": 48,
+		"description": "Keima Katsuragi, a high school student known as the God of Conquests for his expertise in dating simulations, is forced to help a demon named Tenri Ayukawa capture the souls of runaway goddesses."
+	},
+	{
+		"name": "Durarara!!",
+		"year": 2010,
+		"episodes": 24,
+		"description": "In the bustling city of Ikebukuro, a group of individuals with unique abilities and secrets are drawn together by a mysterious headless rider known as the Celty Sturluson."
+	},
+	{
+		"name": "The Familiar of Zero",
+		"year": 2006,
+		"episodes": 39,
+		"description": "Louise Françoise le Blanc de la Vallière, a clumsy and inept mage, is known as the Zero of her class. She accidentally summons Saito Hiraga, a normal high school student from Japan, as her familiar."
+	},
+	{
+		"name": "The Devil is a Part-Timer!",
+		"year": 2013,
+		"episodes": 13,
+		"description": "Sadao Maou, the Demon King of the underworld, is defeated by the hero Emilia Justina and flees to modern-day Tokyo, where he takes on the identity of a part-time worker at a fast-food restaurant."
+	},
+	{
+		"name": "High School DxD",
+		"year": 2012,
+		"episodes": 75,
+		"description": "Issei Hyoudou, a perverted high school student, is killed by a fallen angel and resurrected by Rias Gremory, a beautiful and powerful devil. He becomes her servant and learns about the world of devils, angels, and other supernatural beings."
+	},
+	{
+		"name": "Fairy Tail",
+		"year": 2009,
+		"episodes": 328,
+		"description": "A group of wizards called Fairy Tail, led by the powerful and eccentric Natsu Dragneel, embark on adventures, fight against evil, and form strong bonds of friendship."
+	},
+	{
+		"name": "Naruto Shippuden",
+		"year": 2007,
+		"episodes": 500,
+		"description": "A sequel to Naruto, this series follows Naruto Uzumaki as he becomes a more mature ninja and faces new challenges, including the threat of Akatsuki, a group of powerful criminals."
+	},
+	{
+		"name": "Fullmetal Alchemist: Brotherhood",
+		"year": 2009,
+		"episodes": 64,
+		"description": "Two brothers, Edward and Alphonse Elric, attempt to revive their deceased mother through alchemy, but the experiment goes wrong, leaving Edward without a leg and Alphonse without a body. They embark on a journey to find the Philosopher's Stone to restore their bodies and learn the truth behind the forbidden alchemy."
+	},
+	{
+		"name": "Bleach",
+		"year": 2004,
+		"episodes": 366,
+		"description": "Ichigo Kurosaki, a high school student, gains the powers of a Soul Reaper after his family is attacked by a Hollow, a malevolent spirit. He becomes responsible for protecting humans from Hollows and guiding souls to the afterlife."
+	},
+	{
+		"name": "Code Geass: Lelouch of the Rebellion",
+		"year": 2006,
+		"episodes": 50,
+		"description": "Lelouch Lamperouge, a young exiled prince, gains the power of Geass, which allows him to command anyone with a single gaze. He uses this power to fight against the oppressive Britannian Empire and create a world where his younger sister Nunnally can live in peace."
+	},
+	{
+		"name": "Cowboy Bebop",
+		"year": 1998,
+		"episodes": 26,
+		"description": "A group of bounty hunters, known as the Bebop crew, travel the galaxy in their spaceship, the Bebop, chasing criminals and seeking adventure. The crew consists of Spike Spiegel, a former hitman; Jet Black, a former cop; Faye Valentine, a con artist; Ed, a young hacker; and Ein, a genetically engineered corgi."
+	},
+	{
+		"name": "Sword Art Online",
+		"year": 2012,
+		"episodes": 100,
+		"description": "In the year 2022, a virtual reality massively multiplayer online role-playing game (VRMMORPG) called Sword Art Online is released. Players are trapped in the game when the creator disables the log-out function, and they must defeat the final boss to escape. Kirito, a skilled player, teams up with other players to survive and find a way out."
+	},
+	{
+		"name": "Steins;Gate",
+		"year": 2011,
+		"episodes": 24,
+		"description": "A group of eccentric college students in Akihabara, Tokyo, accidentally invent a time machine using a microwave oven. They experiment with sending messages to the past, but their actions have unintended consequences, leading to a chain of events that threaten to alter the future."
+	},
+	{
+		"name": "Hunter x Hunter",
+		"year": 1998,
+		"episodes": 148,
+		"description": "Gon Freecs, a young boy who dreams of becoming a Hunter, sets out on a journey to find his father, who abandoned him when he was a child. He meets other aspiring Hunters, Kurapika, Leorio, and Killua, and they form a team to face challenges and uncover secrets in the dangerous world of Hunters."
+	},
+	{
+		"name": "Neon Genesis Evangelion",
+		"year": 1995,
+		"episodes": 26,
+		"description": "In a post-apocalyptic world, giant humanoid creatures called Angels attack humanity. The organization NERV recruits teenagers with special abilities to pilot giant bio-machines called Evangelions to fight the Angels. The series explores themes of isolation, depression, and the human condition."
+	},
+	{
+		"name": "Yu Yu Hakusho",
+		"year": 1992,
+		"episodes": 112,
+		"description": "Yusuke Urameshi, a delinquent teenager, dies saving a child from a car accident. He is given a chance to return to the living world as a Spirit Detective, tasked with protecting the human world from demons and other supernatural threats."
+	},
+	{
+		"name": "Fullmetal Alchemist",
+		"year": 2003,
+		"episodes": 51,
+		"description": "An earlier adaptation of the Fullmetal Alchemist manga, this series follows the same premise as Fullmetal Alchemist: Brotherhood but diverges in its storyline and ending."
+	},
+	{
+		"name": "Inuyasha",
+		"year": 2000,
+		"episodes": 167,
+		"description": "Kagome Higurashi, a modern-day schoolgirl, is transported to feudal Japan after falling into a well. She meets Inuyasha, a half-demon who is sealed to a tree. Together, they search for the shards of the Shikon Jewel, a powerful artifact that can grant wishes."
+	},
+	{
+		"name": "Fruits Basket",
+		"year": 2001,
+		"episodes": 26,
+		"description": "Tohru Honda, an orphaned high school student, moves in with the Sohma family, who are cursed to transform into animals of the Chinese zodiac when they are hugged by someone of the opposite gender."
+	},
+	{
+		"name": "Trigun",
+		"year": 1998,
+		"episodes": 26,
+		"description": "Vash the Stampede, a pacifist gunslinger with a reputation for causing massive destruction, travels the desert planet of Gunsmoke, seeking to spread peace and love."
+	},
+	{
+		"name": "Ghost in the Shell: Stand Alone Complex",
+		"year": 2002,
+		"episodes": 26,
+		"description": "In a future where technology has blurred the lines between humans and machines, Major Motoko Kusanagi, a cyborg police officer, investigates cybercrime and terrorism in the technologically advanced city of Niihama."
+	},
+	{
+		"name": "Ergo Proxy",
+		"year": 2006,
+		"episodes": 23,
+		"description": "In a futuristic city where humans and androids coexist, a detective named Re-L Mayer investigates a series of murders committed by androids who have gained consciousness and are rebelling against their human creators."
+	},
+	{
+		"name": "Samurai Champloo",
+		"year": 2004,
+		"episodes": 26,
+		"description": "In Edo-era Japan, a young woman named Fuu hires two samurai, Mugen and Jin, to help her find a samurai who smells of sunflowers."
+	},
+	{
+		"name": "Baccano!",
+		"year": 2007,
+		"episodes": 13,
+		"description": "A historical fantasy anime set in the Prohibition era in the United States, Baccano! follows the intertwined stories of a group of immortal beings, gangsters, and alchemists."
+	},
+	{
+		"name": "Soul Eater",
+		"year": 2008,
+		"episodes": 51,
+		"description": "At the Death Weapon Meister Academy, students train to become Death Scythes, weapons that can transform into human form and partner with human Meisters."
+	}
+]
