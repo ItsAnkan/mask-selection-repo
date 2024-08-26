@@ -15,7 +15,6 @@ The data format is
   "episodes": 26,
   "description": "In Edo-era Japan..."
  },
- /* ... */
 ]
 ```
 
